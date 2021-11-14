@@ -1,7 +1,7 @@
 # Green-Stocks-Analysis
 An overview of the performance of 12 selected green energy stocks over 2017 and 2018.
 
-##Project Overview
+## Project Overview
 The purpose of this project is to assist a recent Finance graduate (Steve) to analyze the performance of various clean energy stocks between 2017 and 2018. This is being done because Steve's first clients have a undiversified portfolio of just one clean energy stock, DAQO (DQ). As a financial professional, Steve knows that a diversified portfolio is a safer method of investing. So, he needs a way to carry out his analyses of 12 selected clean energy stocks. This project seeks to create a VBA script that can help him achieve this goal. The analysis for this project is based of two worksheets within the green_stocks.xlxs document. Within this document, stock metrics such as opening/closing price, high/low price, and volume are provided for 12 different stocks over the course of 2017 and 2018.
 
 ## Results
