@@ -81,9 +81,15 @@ Worksheets("All Stocks Analysis").Activate
 In the end, the original (non-refactored) code ran took 0.707 seconds to run for 2017 and 0.705 seconds for 2018 (on attempts per year). Using the same measurement method, the refactored code ran in 0.118 seconds and 0.123 seconds, respectively. This means the refactoring of the original code saves approximately 0.6 seconds per run.
     
 ### Conclusions
-From looking at the final results of the analyses, one can see that the stocks performed much poorer in 2018 than in 2017. In 2017, all stocks except for 'TERP' showed positive return rates. However, in 2018 the only stocks with positive return rates were 'ENPH' and 'RUN'. Since these two stocks showed only positive return rates, they could be considered more stable options to invest in as they have less of a risk of losing value based on our analysis.
+From looking at the final results of the analyses, one can see that the stocks performed much poorer in 2018 than in 2017. In 2017, all stocks except for 'TERP' showed positive return rates (Figure 1). However, in 2018 the only stocks with positive return rates were 'ENPH' and 'RUN' (Figure 2). Since these two stocks showed only positive return rates, they could be considered more stable options to invest in as they have less of a risk of losing value based on our analysis.
 
 However, the stocks 'ENPH', 'SEDG', and 'DQ' showed the highest overall return rates, in descending order, when both years were taken into account. This could indicate that 'SEDG' and 'DQ' may provide good returns, but could be more volatile than stable options like 'ENPH' and 'RUN'. Overall, 'ENPH' provided the best combination of stability and returns so, it would be wise for Steve's parents to divesify their portfolio through 'ENPH', 'RUN', and 'SEDG', with the bulk of their investments in 'ENPH'. 
+![Stock_performance_2017](https://user-images.githubusercontent.com/93050931/141694911-14178685-fd25-480d-a109-50d97964e99a.PNG)
+(Figure 1)
+
+![Stock_performance_2018](https://user-images.githubusercontent.com/93050931/141694919-38466b5f-b37f-4d26-aeaf-516d0b70e823.PNG)
+(Figure 2)
+
 
 ## Summary
 ### Pros and Cons of Refactoring Code
