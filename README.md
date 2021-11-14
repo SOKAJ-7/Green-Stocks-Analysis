@@ -88,6 +88,7 @@ However, the stocks 'ENPH', 'SEDG', and 'DQ' showed the highest overall return r
 ![Stock_performance_2017](https://user-images.githubusercontent.com/93050931/141694911-14178685-fd25-480d-a109-50d97964e99a.PNG)
 (Figure 1)
 
+
 ![Stock_performance_2018](https://user-images.githubusercontent.com/93050931/141694919-38466b5f-b37f-4d26-aeaf-516d0b70e823.PNG)
 (Figure 2)
 
