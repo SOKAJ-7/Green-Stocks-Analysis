@@ -86,10 +86,12 @@ From looking at the final results of the analyses, one can see that the stocks p
 However, the stocks 'ENPH', 'SEDG', and 'DQ' showed the highest overall return rates, in descending order, when both years were taken into account. This could indicate that 'SEDG' and 'DQ' may provide good returns, but could be more volatile than stable options like 'ENPH' and 'RUN'. Overall, 'ENPH' provided the best combination of stability and returns so, it would be wise for Steve's parents to divesify their portfolio through 'ENPH', 'RUN', and 'SEDG', with the bulk of their investments in 'ENPH'. 
 
 ![Stock_performance_2017](https://user-images.githubusercontent.com/93050931/141694911-14178685-fd25-480d-a109-50d97964e99a.PNG)
+
 (Figure 1)
 
 
 ![Stock_performance_2018](https://user-images.githubusercontent.com/93050931/141694919-38466b5f-b37f-4d26-aeaf-516d0b70e823.PNG)
+
 (Figure 2)
 
 
