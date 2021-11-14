@@ -24,7 +24,8 @@ RowCount = Cells(Rows.Count, "A").End(xlUp).RowRowCount = Cells(Rows.Count, "A")
 A ticker index was intialized at 0 to help refactor our earlier code and arrays of tickerVolumes, tickerStartingPrices, and tickerClosingPrices were created as Long, Single, and Single data types, respectively. A for loop was created to initialize the tickerVolume of each stock to zero. Another for loop was created to sequentially add the 'Volume' value of each row to tickerVolume(tickerIndex) until a new ticker appeared in column A. Once this occured, the value of the tickerIndex would be increased by 1. The first and last recorded 'Close' measurements for each ticker would also be stored in the startingPrices and endingPrices arrays, respectively. This was achieved with the following code:
 
 For j = 0 To 11
-    tickerVolumes(j) = 0
+
+tickerVolumes(j) = 0
     
 Next j
 
